@@ -1,4 +1,0 @@
-spring.data.mongodb.uri=localhost:27017
-spring.data.mongodb.database=test
-spring.data.mongodb.username=
-spring.data.mongodb.password=
