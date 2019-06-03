@@ -18,6 +18,7 @@ Thumbs.db
 
 # Eclipse Project Files
 
+.metadata/**
 **/.classpath
 **/.project
 **/.settings/
