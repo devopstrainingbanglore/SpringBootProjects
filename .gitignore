@@ -17,7 +17,7 @@ Thumbs.db
 **/dependency-reduced-pom.xml
 
 # Eclipse Project Files
-
+.metadata
 .metadata/
 **/.classpath
 **/.project
