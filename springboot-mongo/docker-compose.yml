@@ -4,7 +4,6 @@ services:
   springboot:
     build: .
     image: dockerhandson/springboot-mongo:latest
-    restart: always
     container_name: springboot
     ports:
       - 8182:8080
@@ -27,7 +26,6 @@ services:
     volumes:
       - data:/data/db
       - data-bkp:/data/bkp
-    restart: always
     
 volumes:
   data:
